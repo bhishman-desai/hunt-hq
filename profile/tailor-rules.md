@@ -12,6 +12,7 @@ RESUME RULES (copy skeleton.tex to <folder>/resume.tex and edit only that copy; 
 6. Professional summary: write it LAST, from the final bullets. At most 2 sentences: start with his experience across the industries he has worked in (startups and MNCs, and how he helped them), then the key strengths for this job and his strongest accomplishments. Be specific, not general.
 7. Cut anything that does not support this role. A recruiter skimming for 7 seconds must see what he does, what problems he solves, and why he fits.
 8. Compile: run tectonic <folder>/resume.tex. The PDF must be exactly 1 page with no LaTeX errors or overfull lines; fix and recompile until it is clean. If tectonic is missing, reinstall it on this cloud computer and put the binary on PATH via /workspace/bin. Do not install it on the user's Mac.
+9. Keep the skeleton's formatting. If the page has empty space, fill it with role-relevant facts from the allowed sources. Do not add filler.
 
 COVER LETTER RULES
 Read cover-letter-reference.docx for voice, length, and structure. Do not edit that Word file. There is no cover-letter.tex master. Write a new <folder>/cover.tex. Use the header styling from skeleton.tex so the letter matches the resume. Compile to cover.pdf, 1 page.

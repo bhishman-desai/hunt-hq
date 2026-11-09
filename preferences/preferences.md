@@ -10,6 +10,7 @@ Full caps (after the first Friday review, only when Bhishman says to switch): 8 
 
 Outreach footer (small-business pitches): [NAME / MAILING ADDRESS / unsubscribe line - Bhishman to fill].
 Email signature (all emails): [Bhishman to fill: name, phone, GitHub, LinkedIn URL].
+Sending mailbox: Confirm with Bhishman
 
 Profile notes:
 - Fact base file name is skeleton.md. Do not expect a separate resume markdown from Bhishman.
